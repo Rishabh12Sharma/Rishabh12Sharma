@@ -32,21 +32,26 @@
 
 ## 📊 GitHub Stats  
 
-![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishabh12Sharma&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh12Sharma&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh12Sharma&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh12Sharma&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🐍 Contribution Snake  
 
-![Snake animation](https://github.com/Rishabh12Sharma/Rishabh12Sharma/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rishabh12Sharma/Rishabh12Sharma/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies  
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Rishabh12Sharma&theme=onedark)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rishabh12Sharma&theme=onedark&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
