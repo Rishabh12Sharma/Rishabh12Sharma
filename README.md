@@ -57,12 +57,11 @@
 
 ## 🚀 Featured Projects  
 
-| Project Name | Description |
-|-------------|------------|
-| Wander-Lust | Travel listing app (Airbnb clone) using MERN |
-| Issue Tracker | Full-stack issue tracking system with CI/CD |
-| Quick Cart | E-commerce MERN app |
-| Integration Testing Project | Automated backend testing using Jest |
+| Project Name | Description | Link |
+|-------------|------------|------|
+| Wander-Lust | Travel listing platform (Airbnb-style) built using MERN stack with image uploads and MVC architecture | [🔗 View Repo](https://github.com/Rishabh12Sharma/Wander-Lust) |
+| Quick-Cart-Backend-DevOps | Backend system with CI/CD pipeline, Dockerization, and deployment-focused architecture | [🔗 View Repo](https://github.com/Rishabh12Sharma/Quick-Cart-Backend-devops) |
+| Quick Cart | Frontend system with CI/CD pipeline, Dockerization, and deployment-focused architecture | [🔗 View Repo](https://github.com/Rishabh12Sharma/Quick-Cart-Frontend) |
 
 ---
 
