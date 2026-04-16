@@ -46,7 +46,7 @@
 
 - 📩 Email: rishabhsharma021212@gmail.com  
 - 🔗 GitHub: https://github.com/Rishabh12Sharma  
-- 🌐 Portfolio: Coming Soon  
+- 💼 LinkedIn: https://www.linkedin.com/in/rishabhsh12/
 
 ---
 
