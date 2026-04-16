@@ -33,12 +33,13 @@
 
 ## 🚀 Featured Projects  
 
-| Project Name | Description | Link |
-|-------------|------------|------|
-| Wander-Lust | Travel listing platform (Airbnb-style) built using MERN stack with image uploads and MVC architecture | [🔗 View Repo](https://github.com/Rishabh12Sharma/Wander-Lust) |
-| Quick-Cart-Backend-DevOps | Backend system with CI/CD pipeline, Dockerization, and deployment-focused architecture | [🔗 View Repo](https://github.com/Rishabh12Sharma/Quick-Cart-Backend-devops) |
-| Quick Cart | Frontend system with CI/CD pipeline, Dockerization, and deployment-focused architecture | [🔗 View Repo](https://github.com/Rishabh12Sharma/Quick-Cart-Frontend) |
+## 🚀 Featured Projects
 
+| Project | Description | Link |
+|--------|------------|------|
+| ServerlessOps_Pipeline | End-to-end serverless DevOps pipeline using AWS, Terraform & CI/CD | [🔗 View Repo](https://github.com/Rishabh12Sharma/ServerlessOps_Pipeline) |
+| FeedbackOps | Python-based feedback processing and automation system | [🔗 View Repo](https://github.com/Rishabh12Sharma/FeedbackOps) |
+| Quick-Cart-Backend-DevOps | Backend with CI/CD, Dockerization and cloud deployment setup | [🔗 View Repo](https://github.com/Rishabh12Sharma/Quick-Cart-Backend-devops) |
 ---
 
 ## 📫 Contact Me  
