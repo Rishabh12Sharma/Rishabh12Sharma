@@ -2,6 +2,8 @@
 
 ### 🚀 Full Stack Developer | DevOps Engineer | Cloud | CI/CD | MERN Stack  
 
+![Profile Views](https://komarev.com/ghpvc/?username=Rishabh12Sharma&color=blue)
+
 ---
 
 ## 🚀 About Me  
