@@ -38,16 +38,16 @@
 
 | Project | Description | Link |
 |--------|------------|------|
-| ServerlessOps_Pipeline | End-to-end serverless DevOps pipeline using AWS, Terraform & CI/CD | [🔗 View Repo](https://github.com/Rishabh12Sharma/ServerlessOps_Pipeline) |
-| FeedbackOps | Python-based feedback processing and automation system | [🔗 View Repo](https://github.com/Rishabh12Sharma/FeedbackOps) |
-| Quick-Cart-Backend-DevOps | Backend with CI/CD, Dockerization and cloud deployment setup | [🔗 View Repo](https://github.com/Rishabh12Sharma/Quick-Cart-Backend-devops) |
+| ServerlessOps_Pipeline | End-to-end serverless DevOps pipeline using AWS, Terraform & CI/CD | [🔗 View Repo](https://github.com/rishabhsharmahq/ServerlessOps_Pipeline) |
+| FeedbackOps | Python-based feedback processing and automation system | [🔗 View Repo](https://github.com/rishabhsharmahq/FeedbackOps) |
+| Quick-Cart-Backend-DevOps | Backend with CI/CD, Dockerization and cloud deployment setup | [🔗 View Repo](https://github.com/rishabhsharmahq/Quick-Cart-Backend-devops) |
 ---
 
 ## 📫 Contact Me  
 
-- 📩 Email: rishabhsharma021212@gmail.com  
-- 🔗 GitHub: https://github.com/Rishabh12Sharma  
-- 💼 LinkedIn: https://www.linkedin.com/in/itsrishabhsharma/
+- 📩 Email: rishabhsharmacode@gmail.com  
+- 🔗 GitHub: https://github.com/rishabhsharmahq  
+- 💼 LinkedIn: https://www.linkedin.com/in/rishabhsharmahq/
 
 ---
 
